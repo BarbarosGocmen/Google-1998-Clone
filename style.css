@@ -1,0 +1,51 @@
+.gri {
+    background-color: #EEEEEE;
+    width: 1490.69px;
+    height: 64px;
+}
+
+.box1 {
+    background-color: #7ee5da;
+    width: 550.81px;
+    height: 78px;
+    margin-top: 2px;
+    margin-right: 939px;
+    
+}
+
+.box1yazi {
+    padding: 8px;
+    font-size: 16px;
+}
+
+.box2 {
+    background-color: #70ccc2;
+    width: 294.66px;
+    height: 78px;
+    margin-top: -78px;
+    margin-left: -90px;
+}
+
+.box2yazi {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.box3 {
+    background-color: #62b3aa;
+    width: 643.22px;
+    height: 78px;
+    margin-top: -78px;
+    margin-left: 851px;
+
+}
+
+
+.box3yazi {
+    font-size: 12px;
+}
+
+.sonkisim {
+    padding: 10px;
+    font-size: 12px;
+}
